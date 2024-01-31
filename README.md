@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Java and Springboot
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Upgrading and learning new skills
-- 💬 Ask me about myslef
+- 💬 Ask me about myself
 - 📫 How to reach me: https://www.linkedin.com/in/md-ismail-4b17821a0/
 - 😄 Pronouns: He/Him
